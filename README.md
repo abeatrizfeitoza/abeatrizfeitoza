@@ -1,4 +1,5 @@
-## Hi! My name is Beatriz 👋
+<div align="center"> 
+  <h1> Hi! My name is Beatriz 👋</h1>
 
 📚 I’m currently studying IT and Web Development
 
@@ -18,5 +19,6 @@
    <a href = "mailto:abeatrizfeitoza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-beatriz-vasconcelos-feitoza-b811bb24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
 </div>
 
