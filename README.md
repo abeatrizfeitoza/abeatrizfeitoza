@@ -1,24 +1,62 @@
-<div align="center"> 
-  <h1> Hi! My name is Beatriz 👋</h1>
 
-📚 I’m currently studying IT and Web Development
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+<div align="center">
+  <h1>Hi! I'm Beatriz 👋</h1>
+  <p><strong>Full Stack Web Development Student</strong></p>
 </div>
 
- ##
- 
-<div> 
-  <a href="https://www.instagram.com/onlybiah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:abeatrizfeitoza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-beatriz-vasconcelos-feitoza-b811bb24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
+
+### 👩‍💻 About Me
+
+I am a passionate **Full Stack Web Development student** dedicated to building clean, efficient, and user-friendly web applications. My current focus is mastering the JavaScript ecosystem and modern web technologies.
+
+*   **🌱 Learning:** Deepening my knowledge in **Node.js** and **SQL** to build robust back-end systems.
+*   **🤝 Soft Skills:** I pride myself on being a **collaborative team player**, **detail-oriented**, and a **clear communicator**.
+*   **🌍 Languages:** Currently studying **French** to expand my linguistic horizons.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 🧩 Out of the Code
+
+When I'm not coding, you can find me:
+*   🧵 **Embroidery:** A creative way to relax and practice patience.
+*   ♟️ **Chess:** Always up for a strategic challenge.
+*   📺 **Series & 📚 Reading:** I love consuming content in **English** to keep my fluency sharp.
+
+---
+
+### 📫 Connect with me:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ana-beatriz-vasconcelos-feitoza-b811bb24a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:abeatrizfeitoza@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/onlybiah/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
