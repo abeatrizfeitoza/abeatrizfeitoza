@@ -29,15 +29,6 @@ I am a passionate **Full Stack Web Development student** dedicated to building c
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abeatrizfeitoza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeatrizfeitoza&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ### 🧩 Out of the Code
 
 When I'm not coding, you can find me:
