@@ -35,7 +35,7 @@ When I'm not coding, you can find me:
 *   🧵 **Embroidery:** A creative way to relax and practice patience.
 *   ♟️ **Chess:** Always up for a strategic challenge.
 *   📺 **Series & 📚 Reading:** I love consuming content in **English** to keep my fluency sharp.
-
+*    **FUNFACT** I've lived in 5 different countries.
 ---
 
 ### 📫 Connect with me:
