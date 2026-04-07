@@ -12,7 +12,7 @@ I am a passionate **Full Stack Web Development student** dedicated to building c
 
 *   **🌱 Learning:** Deepening my knowledge in **Node.js** and **SQL** to build robust back-end systems.
 *   **🤝 Soft Skills:** I pride myself on being a **collaborative team player**, **detail-oriented**, and a **clear communicator**.
-*   **🌍 Languages:** Currently studying **French** to expand my linguistic horizons.
+*   **🌍 Languages:** Currently studying **French** to expand my linguistic horizons, but I am fluente in **Portuguese, English and Spanish**.
 
 ---
 
